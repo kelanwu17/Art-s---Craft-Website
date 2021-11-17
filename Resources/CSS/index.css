@@ -1,4 +1,4 @@
-h1 {
+h1, p {
     font-family: Helvetica;
 
 }
@@ -7,5 +7,30 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align:center;
-    background: url("images\pattern.webp");
+    background: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+}
+#Brush {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+#Frame {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#Paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+#Bold {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+
 }
