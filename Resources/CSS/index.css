@@ -1,0 +1,11 @@
+h1 {
+    font-family: Helvetica;
+
+}
+#Title {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align:center;
+    background: url("images\pattern.webp");
+}
